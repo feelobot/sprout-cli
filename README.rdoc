@@ -1,0 +1,6 @@
+= sprout-cli
+
+Describe your project here
+
+:include:sprout-cli.rdoc
+

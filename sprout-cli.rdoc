@@ -1,0 +1,5 @@
+= sprout-cli
+
+Generate this with
+    sprout-cli rdoc
+After you have described your command line interface
